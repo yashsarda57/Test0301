@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entities
+ build="b103"
+ majorVersion="8"
+ minorVersion="5"
+ modelPersistenceProviderPackage="PostgresPersistenceProviderPackage"
+ revision="5"
+ schemaVersion="1054"
+ universal="password">
+    <StyleDefinitions>
+        <StyleDefinition
+         description="Default Style for Tag Cloud Widget Link Selected- Theme: ThingWorx"
+         documentationContent=""
+         homeMashup=""
+         lastModifiedDate="2020-06-24T20:03:29.635Z"
+         name="PTC.Simulator.Style"
+         projectName="Simulator"
+         tags="">
+            <avatar></avatar>
+            <DesignTimePermissions>
+                <Create></Create>
+                <Read></Read>
+                <Update></Update>
+                <Delete></Delete>
+                <Metadata></Metadata>
+            </DesignTimePermissions>
+            <RunTimePermissions></RunTimePermissions>
+            <VisibilityPermissions>
+                <Visibility></Visibility>
+            </VisibilityPermissions>
+            <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
+            <ConfigurationTables></ConfigurationTables>
+            <content>
+            <![CDATA[
+            {
+              "backgroundColor" : "#c4cb9b",
+              "displayString" : "",
+              "fontEmphasisBold" : false,
+              "fontEmphasisItalic" : false,
+              "fontEmphasisUnderline" : false,
+              "foregroundColor" : "",
+              "image" : "",
+              "lineColor" : "",
+              "lineStyle" : "solid",
+              "lineThickness" : 1,
+              "secondaryBackgroundColor" : "#ffe8b6",
+              "textSize" : "normal"
+            }
+            ]]>
+            </content>
+        </StyleDefinition>
+    </StyleDefinitions>
+</Entities>

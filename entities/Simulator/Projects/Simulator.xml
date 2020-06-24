@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entities
+ build="b103"
+ majorVersion="8"
+ minorVersion="5"
+ modelPersistenceProviderPackage="PostgresPersistenceProviderPackage"
+ revision="5"
+ schemaVersion="1054"
+ universal="password">
+    <Projects>
+        <Project
+         artifactId=""
+         dependsOn="{&quot;extensions&quot;:&quot;&quot;,&quot;projects&quot;:&quot;&quot;}"
+         description=""
+         documentationContent=""
+         groupId=""
+         homeMashup=""
+         lastModifiedDate="2020-06-24T20:03:29.764Z"
+         minPlatformVersion=""
+         name="Simulator"
+         packageVersion="1.0.0"
+         projectName="Simulator"
+         publishResult=""
+         state="DRAFT"
+         tags="">
+            <avatar></avatar>
+            <DesignTimePermissions>
+                <Create></Create>
+                <Read></Read>
+                <Update></Update>
+                <Delete></Delete>
+                <Metadata></Metadata>
+            </DesignTimePermissions>
+            <RunTimePermissions></RunTimePermissions>
+            <VisibilityPermissions>
+                <Visibility></Visibility>
+            </VisibilityPermissions>
+            <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
+            <ConfigurationTables></ConfigurationTables>
+        </Project>
+    </Projects>
+</Entities>
