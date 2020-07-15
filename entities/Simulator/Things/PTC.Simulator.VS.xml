@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-06-24T20:03:29.783Z"
+         lastModifiedDate="2020-07-15T16:10:22.873Z"
          name="PTC.Simulator.VS"
          projectName="Simulator"
          published="false"
@@ -80,6 +80,11 @@
                  type="ThingShape"></ImplementedShape>
             </ImplementedShapes>
             <ThingProperties>
+                <FriendlyName>
+                    <Value></Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
+                </FriendlyName>
                 <hum>
                     <Value>0.0</Value>
                     <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
@@ -90,41 +95,6 @@
                     <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
                     <Quality>GOOD</Quality>
                 </HumidityHigh>
-                <temp>
-                    <Value>0.0</Value>
-                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
-                    <Quality>UNKNOWN</Quality>
-                </temp>
-                <FriendlyName>
-                    <Value></Value>
-                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
-                    <Quality>UNKNOWN</Quality>
-                </FriendlyName>
-                <roll>
-                    <Value>0.0</Value>
-                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
-                    <Quality>UNKNOWN</Quality>
-                </roll>
-                <YawHighLimit>
-                    <Value>300.0</Value>
-                    <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
-                    <Quality>GOOD</Quality>
-                </YawHighLimit>
-                <yaw>
-                    <Value>0.0</Value>
-                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
-                    <Quality>UNKNOWN</Quality>
-                </yaw>
-                <TemperatureHigh>
-                    <Value>75.0</Value>
-                    <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
-                    <Quality>GOOD</Quality>
-                </TemperatureHigh>
-                <RollHighLimit>
-                    <Value>300.0</Value>
-                    <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
-                    <Quality>GOOD</Quality>
-                </RollHighLimit>
                 <pitch>
                     <Value>0.0</Value>
                     <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
@@ -135,6 +105,36 @@
                     <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
                     <Quality>GOOD</Quality>
                 </PitchHighLimit>
+                <roll>
+                    <Value>0.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
+                </roll>
+                <RollHighLimit>
+                    <Value>300.0</Value>
+                    <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
+                    <Quality>GOOD</Quality>
+                </RollHighLimit>
+                <temp>
+                    <Value>0.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
+                </temp>
+                <TemperatureHigh>
+                    <Value>75.0</Value>
+                    <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
+                    <Quality>GOOD</Quality>
+                </TemperatureHigh>
+                <yaw>
+                    <Value>0.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
+                </yaw>
+                <YawHighLimit>
+                    <Value>300.0</Value>
+                    <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
+                    <Quality>GOOD</Quality>
+                </YawHighLimit>
             </ThingProperties>
         </Thing>
     </Things>

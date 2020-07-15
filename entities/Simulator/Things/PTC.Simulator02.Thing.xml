@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-06-24T20:03:29.808Z"
+         lastModifiedDate="2020-07-15T16:10:22.904Z"
          name="PTC.Simulator02.Thing"
          projectName="Simulator"
          published="false"
@@ -56,6 +56,15 @@
             <AlertConfigurations></AlertConfigurations>
             <ImplementedShapes></ImplementedShapes>
             <ThingProperties>
+                <FriendlyName>
+                    <Value>
+                    <![CDATA[
+                    Base02 Device
+                    ]]>
+                    </Value>
+                    <Timestamp>2019-02-01T17:52:12.156Z</Timestamp>
+                    <Quality>GOOD</Quality>
+                </FriendlyName>
                 <hum>
                     <Value>26.82850120896667</Value>
                     <Timestamp>2019-02-25T17:55:32.688Z</Timestamp>
@@ -66,45 +75,6 @@
                     <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
                     <Quality>GOOD</Quality>
                 </HumidityHigh>
-                <temp>
-                    <Value>15.33352947656933</Value>
-                    <Timestamp>2019-02-25T17:55:32.704Z</Timestamp>
-                    <Quality>GOOD</Quality>
-                </temp>
-                <FriendlyName>
-                    <Value>
-                    <![CDATA[
-                    Base02 Device
-                    ]]>
-                    </Value>
-                    <Timestamp>2019-02-01T17:52:12.156Z</Timestamp>
-                    <Quality>GOOD</Quality>
-                </FriendlyName>
-                <roll>
-                    <Value>333.0</Value>
-                    <Timestamp>2019-02-25T17:55:32.688Z</Timestamp>
-                    <Quality>GOOD</Quality>
-                </roll>
-                <YawHighLimit>
-                    <Value>200.0</Value>
-                    <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
-                    <Quality>GOOD</Quality>
-                </YawHighLimit>
-                <yaw>
-                    <Value>220.0</Value>
-                    <Timestamp>2019-02-25T17:55:32.688Z</Timestamp>
-                    <Quality>GOOD</Quality>
-                </yaw>
-                <TemperatureHigh>
-                    <Value>75.0</Value>
-                    <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
-                    <Quality>GOOD</Quality>
-                </TemperatureHigh>
-                <RollHighLimit>
-                    <Value>200.0</Value>
-                    <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
-                    <Quality>GOOD</Quality>
-                </RollHighLimit>
                 <pitch>
                     <Value>150.0</Value>
                     <Timestamp>2019-02-25T17:55:32.688Z</Timestamp>
@@ -115,6 +85,36 @@
                     <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
                     <Quality>GOOD</Quality>
                 </PitchHighLimit>
+                <roll>
+                    <Value>333.0</Value>
+                    <Timestamp>2019-02-25T17:55:32.688Z</Timestamp>
+                    <Quality>GOOD</Quality>
+                </roll>
+                <RollHighLimit>
+                    <Value>200.0</Value>
+                    <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
+                    <Quality>GOOD</Quality>
+                </RollHighLimit>
+                <temp>
+                    <Value>15.33352947656933</Value>
+                    <Timestamp>2019-02-25T17:55:32.704Z</Timestamp>
+                    <Quality>GOOD</Quality>
+                </temp>
+                <TemperatureHigh>
+                    <Value>75.0</Value>
+                    <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
+                    <Quality>GOOD</Quality>
+                </TemperatureHigh>
+                <yaw>
+                    <Value>220.0</Value>
+                    <Timestamp>2019-02-25T17:55:32.688Z</Timestamp>
+                    <Quality>GOOD</Quality>
+                </yaw>
+                <YawHighLimit>
+                    <Value>200.0</Value>
+                    <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
+                    <Quality>GOOD</Quality>
+                </YawHighLimit>
             </ThingProperties>
         </Thing>
     </Things>
